@@ -66,5 +66,27 @@ To ensure data quality and enhance the reliability of the analysis, the followin
 - Then identified and removed duplicate entries to prevent inflated order counts and revenue figures.
 
 - Transferred the clean data into pivot table for visualization.
+
+  ![image](https://github.com/user-attachments/assets/01f5fe6c-8972-4b2a-ab84-0273af27ddd9)
+
+ ### Data Modelling
+I created a pivot table to enable me to organize, summarize and explore patterns across the data.  And also, for rapid aggregation and comparison of metrics, helping identify key insight within the data.
+
+![image](https://github.com/user-attachments/assets/16bc2ed7-f4ab-415a-90c6-6b479555519b)
+
+### Data Analysis and Visuals
+
+-	I did some analysis on pivot table before creating visuals.
+
+Analysis that was added are shown below;
+
+Table 1
+
+![image](https://github.com/user-attachments/assets/ace21249-8ba9-4074-a340-06f5baeced11)
+
+
+
+
+
   
 
