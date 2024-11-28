@@ -84,6 +84,44 @@ Table 1
 
 ![image](https://github.com/user-attachments/assets/ace21249-8ba9-4074-a340-06f5baeced11)
 
+Table 2
+
+![image](https://github.com/user-attachments/assets/4ec5548a-71ca-40f0-9359-930fc0ba1f0b)
+
+Table 3
+
+![image](https://github.com/user-attachments/assets/fcf13964-2c0f-4895-b1a5-0d63340bdd87)
+
+Below is the dashboard I created
+
+![image](https://github.com/user-attachments/assets/4fee2b66-46d6-49f2-883c-fb243967e9f5)
+
+### Dashboard Overview
+
+The Walmart Sales Data Dashboard provides an overview of sales metrics, including total orders, total revenue, average revenue per order, customer count, and various breakdowns of sales data. This dashboard is organized into sessions that display performance by sales person, payment type, location, shipping method, and category.
+
+Figure1: A Graph showing Revenue by Sales persons
+
+![image](https://github.com/user-attachments/assets/5ac550e0-3e69-4d44-b4af-da281d2f0e3e)
+
+Sales performance varies by salesperson, with Andrew Cecchini being the top performer at $12,369. The gap between top performer and others suggests an opportunity for training or support for lower- performing salespeople.
+
+Figure 2: A Graph showing Revenue by City
+
+![image](https://github.com/user-attachments/assets/ddbe0222-4043-4d93-bae4-0ae69a97c71a)
+
+Revenue distribution by city shows the highest sales in Los Angeles and New York. This information could guide marketing efforts, focusing on high-performing cities or increasing outreach in low- performing ones.
+
+Figure 3: A Graph showing Order by type of payment
+
+![image](https://github.com/user-attachments/assets/34873364-4001-45f9-83ed-f9170d0d7031)
+
+
+
+
+
+
+
 
 
 
