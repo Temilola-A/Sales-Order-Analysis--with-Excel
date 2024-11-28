@@ -66,4 +66,5 @@ To ensure data quality and enhance the reliability of the analysis, the followin
 - Then identified and removed duplicate entries to prevent inflated order counts and revenue figures.
 
 - Transferred the clean data into pivot table for visualization.
+  
 
