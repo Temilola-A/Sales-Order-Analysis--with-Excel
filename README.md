@@ -116,6 +116,62 @@ Figure 3: A Graph showing Order by type of payment
 
 ![image](https://github.com/user-attachments/assets/34873364-4001-45f9-83ed-f9170d0d7031)
 
+Payment method are split with “Cash”, “Credit” and “Card” each covering about 34% of transactions, indicating balanced payment preferences. 
+Understanding payment preferences allows tailoring of services or promotions to popular payment methods, or incentives to use less common options.
+
+Figure 4: A Graph Revenue by payment type
+
+![image](https://github.com/user-attachments/assets/34a540d3-e2af-492f-8493-f9734285793e)
+
+Revenue by payment type indicates that “Credit Card” payments contributed more significantly to the revenue.
+Higher revenue from credit card payment could be leveraged in future marketing.
+
+Figure 5: A Graph showing Revenue by State
+
+![image](https://github.com/user-attachments/assets/5bfe254a-df12-4396-ad4d-52eba185ed03)
+
+Revenue varies significantly by state, with Illinios, California, and Texas contributing the highest. 
+This geographic distribution suggests focusing sales and marketing efforts on these states to leverage existing demand.
+
+Figure 6: A Graph showing Revenue by Ship Name
+
+![image](https://github.com/user-attachments/assets/4c60c77b-e028-4793-ac47-0e6231587c5a)
+
+Different shipping methods contribute varying levels of revenue, with “Shipping Company C” generating the highest.
+If certain shipping methods are preferred by high- revenue customers, the business could consider prioritizing those methods for better customer satisfaction.
+
+Figure 7: A Graph showing Revenue by Region
+
+![image](https://github.com/user-attachments/assets/1a3d1cb2-de05-4485-ae9f-718058bb746d)
+
+The North region contributes 40% of total revenue, making it the most profitable area.
+The regional analysis suggests targeted marketing in the North region, while exploring strategies to boost sales in lower- revenue regions like the East.
+
+Figure 8: A Graph showing Revenue by Category
+
+![image](https://github.com/user-attachments/assets/d14561f7-d92f-4f66-9370-b51f3ccd86c6)
+
+Sales are spread across categories, with “Produce” and “Diary” generating notable revenue.
+Investing in high- performing categories could increase overall revenue, while underperforming categories may need promotional efforts.
+
+### Conclusion and Recommendation
+
+The dashboard provides valuable insights into sales performance, customer behavior, and regional demand. Based on the data:
+
+-	For Sales Team: Offer additional training to lower- performing salespersons or explore mentoring programs with top performers.
+-	For Marketing: Focus on high- revenue cities and regions, like Los Angeles, New York, and the North region, to maximize return on investment.
+-	For Product Strategy: Emphasize high-demand categories, such as Produce and Dairy, in inventory and marketing strategies.
+-	Customer Engagement: With a small customer base, consider implementing loyalty programs to increase retention and repeat purchases.
+ 
+
+
+
+
+
+
+
+
+
 
 
 
