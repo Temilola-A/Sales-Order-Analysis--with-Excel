@@ -1,5 +1,17 @@
 # Sales Order Analysis Report: Trends and Insights for December 2014
 
+## Table of content
+
+- [Project overview](#project-overview)
+- [Introduction](Introduction)
+- [Objective](Objective)
+- [Problem Statement](Problem-statement)
+- [Data sources and collection](Data-sources-and-collection)
+- [Excel Concept Applied](Excel-Concept-Applied)
+- [Scope and Limitations](Scope-and-Limitations)
+- [Data Preparation and Cleaning]
+
+
 ### Project Overview
 
 This analysis of sales order data for December 2014 was conducted as part of my efforts to improve my data analysis and reporting skills. The project focuses on identifying trends, patterns, and actionable insights to support strategic decision-making in sales and marketing.
